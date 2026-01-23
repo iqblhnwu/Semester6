@@ -1,0 +1,5 @@
+Robotika
+Minggu-1 23-01-2026 -> Minggu-2 30-01-2026 11:59 WITA
+* Mencari yang membahas mengenai rancang bangun robot
+* Membuat ringkasan kerja dari robot
+* Mencari datasheet sensor yang digunakan pada robot
